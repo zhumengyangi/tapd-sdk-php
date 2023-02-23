@@ -24,11 +24,11 @@ $ composer require zmy/tapd-sdk-php
 
 The MIT License. Please see [License File](LICENSE) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/youzanyun/open-sdk.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/zmy/tapd-sdk-php.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/youzanyun/open-sdk.svg?style=flat-square
-[ico-travis]: https://api.travis-ci.org/youzan/open-sdk-php.svg
+[ico-downloads]: https://img.shields.io/packagist/dt/zmy/tapd-sdk-php.svg?style=flat-square
+[ico-travis]: https://api.travis-ci.org/zmy/tapd-sdk-php.svg
 
-[link-packagist]: https://packagist.org/packages/youzanyun/open-sdk
-[link-downloads]: https://packagist.org/packages/youzanyun/open-sdk
-[link-travis]: https://travis-ci.org/youzan/open-sdk-php
+[link-packagist]: https://packagist.org/packages/zmy/tapd-sdk-php
+[link-downloads]: https://packagist.org/packages/zmy/tapd-sdk-php
+[link-travis]: https://travis-ci.org/zmy/tapd-sdk-php
