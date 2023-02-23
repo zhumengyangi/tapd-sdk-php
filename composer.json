@@ -1,0 +1,28 @@
+{
+    "name": "zmy/tapd-sdk-php",
+    "description": "php版本的Tapd接口SDK",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zmy",
+            "email": "z1784311404@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tapd\\": "src/",
+            "Tapd\\Workspace\\": "src/Workspace/",
+            "Tapd\\Stories\\": "src/Stories/",
+            "Tapd\\Bugs\\": "src/Bugs/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    }
+}
